@@ -11,3 +11,4 @@ You must write an algorithm that runs in O(n) time and without using the divisio
 nums = [1,2,3,4]
 
 for i in range(len(nums)):
+    pass
